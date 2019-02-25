@@ -50,18 +50,3 @@ public class Calculator
 		return history;   
 	}
 }
-
-class test
-{
-	public static void main(String[] args)
-	{
-		
-		Calculator ca=new Calculator();
-		ca.add(4);
-		ca.subtract(2);
-		ca.multiply(2);
-		ca.add(5);
-		System.out.println(ca.getTotal());
-		System.out.print(ca.getHistory());
-	}
-}
