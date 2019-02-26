@@ -1,5 +1,5 @@
 package cse360assign2;
-
+/**the second version*/
 public class Calculator 
 {
 	private int total;
