@@ -49,4 +49,4 @@ public class Calculator
 	{
 		return history;   
 	}
-} 
+}  
